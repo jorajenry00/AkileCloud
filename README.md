@@ -1,4 +1,4 @@
-# AkileCloud优惠码和2024年最新AkileCloud特价云服务器活动整理
+# AkileCloud优惠码和2025年最新AkileCloud特价云服务器活动整理
 
 ## AkileCloud 介绍
 AkileCloud是2023年成立的一家国人主机商，拥有AS自治域AS61112，主要业务覆盖香港、台湾、新加坡、韩国、日本、美国、英国等多个地区的VPS和服务器。其产品以高性价比和多元化的服务器选择著称。
